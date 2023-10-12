@@ -1,3 +1,3 @@
 # KitKat Artists List For 2023!!!
-1. DJ Snake.
-2. DJ David Guetta.
+
+**we will display the names of the artists who will visit Berlin and come to our mad wild club!**
